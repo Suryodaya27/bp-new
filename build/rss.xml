@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blueprynt - Field notes</title>
+    <link>https://blueprynt.io/blog</link>
+    <description>Operator-level writing on B2B outbound, ICP design, deliverability, and the pipeline systems we build for our clients.</description>
+    <language>en-us</language>
+    <atom:link href="https://blueprynt.io/rss.xml" rel="self" type="application/rss+xml" />
+
+    <item>
+      <title>Trigger events: the 12 signals that predict a buyer is ready</title>
+      <link>https://blueprynt.io/blog/trigger-events-12-signals</link>
+      <guid isPermaLink="true">https://blueprynt.io/blog/trigger-events-12-signals</guid>
+      <pubDate>Thu, 12 Feb 2026 09:00:00 +0000</pubDate>
+      <description>A complete list of the trigger events we track for B2B outbound, why each one matters, and how to source them at scale without manual research.</description>
+    </item>
+
+    <item>
+      <title>How to write cold emails that get replies in 2026</title>
+      <link>https://blueprynt.io/blog/cold-email-2026</link>
+      <guid isPermaLink="true">https://blueprynt.io/blog/cold-email-2026</guid>
+      <pubDate>Mon, 09 Feb 2026 09:00:00 +0000</pubDate>
+      <description>The four-line cold email template that works for B2B founders today, why every line earns its place, and the patterns that get filtered to spam.</description>
+    </item>
+
+    <item>
+      <title>Email deliverability checklist for B2B founders</title>
+      <link>https://blueprynt.io/blog/email-deliverability-checklist</link>
+      <guid isPermaLink="true">https://blueprynt.io/blog/email-deliverability-checklist</guid>
+      <pubDate>Fri, 06 Feb 2026 09:00:00 +0000</pubDate>
+      <description>A 14-point setup checklist that gets your sending domain into the inbox, not the spam folder.</description>
+    </item>
+
+    <item>
+      <title>ICP redesign beats another list rental every time</title>
+      <link>https://blueprynt.io/blog/icp-redesign-vs-list-rental</link>
+      <guid isPermaLink="true">https://blueprynt.io/blog/icp-redesign-vs-list-rental</guid>
+      <pubDate>Wed, 04 Feb 2026 09:00:00 +0000</pubDate>
+      <description>Why founders keep buying lists, why the lists keep failing, and the four-hour exercise that fixes the leak at the source.</description>
+    </item>
+
+    <item>
+      <title>Why we ship 21 fields per lead, not five</title>
+      <link>https://blueprynt.io/blog/21-fields-research-file</link>
+      <guid isPermaLink="true">https://blueprynt.io/blog/21-fields-research-file</guid>
+      <pubDate>Wed, 28 Jan 2026 09:00:00 +0000</pubDate>
+      <description>A breakdown of the 21 data points in every Blueprynt research file and why each one moves a deal forward.</description>
+    </item>
+
+    <item>
+      <title>B2B SaaS pipeline math: how to set realistic outbound targets</title>
+      <link>https://blueprynt.io/blog/outbound-pipeline-math</link>
+      <guid isPermaLink="true">https://blueprynt.io/blog/outbound-pipeline-math</guid>
+      <pubDate>Thu, 22 Jan 2026 09:00:00 +0000</pubDate>
+      <description>How many leads, replies, and meetings you need to hit a quarterly revenue target, with a worked example founders can plug their numbers into.</description>
+    </item>
+
+    <item>
+      <title>Outbound in 2026 is not dead, it is filtered</title>
+      <link>https://blueprynt.io/blog/outbound-in-2026</link>
+      <guid isPermaLink="true">https://blueprynt.io/blog/outbound-in-2026</guid>
+      <pubDate>Thu, 15 Jan 2026 09:00:00 +0000</pubDate>
+      <description>Reply rates are down across the board. Volume is not the answer. Here is what works in inboxes that learned to ignore you.</description>
+    </item>
+  </channel>
+</rss>
